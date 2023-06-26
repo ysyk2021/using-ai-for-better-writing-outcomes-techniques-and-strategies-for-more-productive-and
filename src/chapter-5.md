@@ -15,7 +15,7 @@ Encouraging Divergent Thinking with AI-Enabled Creative Writing Exercises
 
 AI-enabled creative writing exercises can encourage divergent thinking and help writers develop new and innovative approaches to their writing. These exercises use machine learning algorithms and natural language processing to analyze written work and provide feedback and suggestions for improving creativity and originality.
 
-One example of an AI-enabled creative writing exercise is the GPT-3 prompt generator, which provides writers with unique and unusual prompts to inspire their writing. Other exercises might include word association games or image-based prompts that encourage writers to think outside the box.
+One example of an AI-enabled creative writing exercise is the GPT-3.5 prompt generator, which provides writers with unique and unusual prompts to inspire their writing. Other exercises might include word association games or image-based prompts that encourage writers to think outside the box.
 
 Enhancing Emotional Tone and Engagement with AI-Powered Sentiment Analysis
 --------------------------------------------------------------------------

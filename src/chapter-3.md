@@ -13,7 +13,7 @@ By identifying these areas, writers can target specific aspects of their writing
 Selecting AI Tools and Implementing them into Writing Workflows
 ---------------------------------------------------------------
 
-Once writers have identified areas where AI can improve their writing processes, they should research and select the right AI tools that align with their specific needs and goals. Popular AI tools for writing improvement include Grammarly, ProWritingAid, Hemingway Editor, Articoolo, Writesonic, and GPT-3 prompt generator, among others.
+Once writers have identified areas where AI can improve their writing processes, they should research and select the right AI tools that align with their specific needs and goals. Popular AI tools for writing improvement include Grammarly, ProWritingAid, Hemingway Editor, Articoolo, Writesonic, and GPT-3.5 prompt generator, among others.
 
 After selecting the right tools, writers should integrate them seamlessly into their writing workflows, making adjustments as necessary to optimize their effectiveness. This may involve testing the tools on a small scale before fully integrating them into writing workflows.
 

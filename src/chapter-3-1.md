@@ -24,7 +24,7 @@ Once writers have identified areas where AI can improve their writing processes,
 Some popular AI tools for improving writing processes include:
 
 * Idea generation: Write With Transformer, Articoolo, and Ideaflip
-* Content creation: Writesonic, [Copy.ai](http://Copy.ai), and GPT-3 prompt generator
+* Content creation: Writesonic, [Copy.ai](http://Copy.ai), and GPT-3.5 prompt generator
 * Editing and proofreading: Grammarly, ProWritingAid, and Hemingway Editor
 * Grammar and style correction: Grammarly, ProWritingAid, and Hemingway Editor
 
