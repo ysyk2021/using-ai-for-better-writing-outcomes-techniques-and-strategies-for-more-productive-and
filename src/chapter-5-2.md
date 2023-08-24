@@ -1,5 +1,3 @@
-Encouraging Divergent Thinking with AI-Enabled Creative Writing Exercises
-==========================================================================================================================
 
 Divergent thinking is a critical component of creativity and is essential for generating new ideas and perspectives. By leveraging the power of artificial intelligence (AI), writers can engage in more effective and efficient creative writing exercises that encourage divergent thinking.
 

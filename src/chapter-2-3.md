@@ -1,5 +1,3 @@
-Sentiment Analysis for Emotional Tone and Engagement
-====================================================================================================================
 
 Artificial intelligence (AI) technology can improve writing outcomes by analyzing emotional tone and engagement using sentiment analysis. Sentiment analysis is a natural language processing technique that analyzes written content to identify emotions, attitudes, and opinions expressed within the text.
 

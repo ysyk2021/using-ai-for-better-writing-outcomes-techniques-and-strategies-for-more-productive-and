@@ -1,5 +1,3 @@
-Selecting AI tools and Implementing them into Writing Workflows
-===========================================================================================================================
 
 In this chapter, we will explore how writers can get started with using AI technology to improve their writing practice. We'll examine the process of selecting AI tools and integrating them into writing workflows, providing tips and strategies for maximizing the effectiveness of these tools.
 

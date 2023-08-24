@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI Technology for Writing Improvement
-==============================================================
 
 In this chapter, we will explore the different AI technologies that can be used to improve writing outcomes. We'll examine the underlying principles behind each technology and provide examples of popular AI-powered tools that utilize these technologies to enhance writing practice.
 

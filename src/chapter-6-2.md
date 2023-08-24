@@ -1,5 +1,3 @@
-Balancing Automation with Personal Style
-=======================================================================================================
 
 As writers increasingly turn to AI-powered tools to improve their writing practice, it's essential to evaluate the impact of these tools on the quality and style of written work. In this chapter, we'll explore strategies for balancing automation with personal style and maintaining control over the final product.
 

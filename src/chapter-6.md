@@ -1,5 +1,3 @@
-Chapter 6: Evaluating the Impact of AI on Writing Improvement
-=============================================================
 
 As writers increasingly turn to AI-powered tools to improve their writing practice, it's important to evaluate the impact that these tools have on the quality and style of written work. In this chapter, we'll examine the tradeoffs involved in using AI for writing improvement and explore strategies for balancing automation with personal style.
 

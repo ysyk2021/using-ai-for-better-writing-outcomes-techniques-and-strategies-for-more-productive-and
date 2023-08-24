@@ -1,5 +1,3 @@
-Chapter 3: Getting Started with AI for Writing Improvement
-==========================================================
 
 In this chapter, we will explore how writers can get started with using AI technology to improve their writing practice. We'll examine the process of identifying writing processes that can be improved with AI, selecting AI tools and integrating them into writing workflows, and creating a customized AI roadmap for writing enhancement.
 
