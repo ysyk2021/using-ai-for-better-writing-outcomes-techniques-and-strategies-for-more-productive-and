@@ -12,3 +12,7 @@ Furthermore, we'll discuss ethical considerations in AI adoption for writing, su
 Whether you're new to AI technology or already familiar with it, Using AI for Better Writing Outcomes offers insights and actionable strategies that will help you optimize your writing process with AI. With a commitment to ethical and responsible AI adoption, this book is an excellent resource for writers looking to take their craft to the next level.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
