@@ -1,5 +1,4 @@
-Chapter 5: Enhancing Writing Output with AI-Powered Content Generation and Expansion
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of writing, one of the most transformative applications of AI lies in content generation and expansion. AI-powered tools and techniques have the potential to exponentially increase your writing output, making you more productive and creative than ever before. This chapter explores how you can harness the power of AI to generate and expand content effectively while maintaining the quality and authenticity of your work.
 

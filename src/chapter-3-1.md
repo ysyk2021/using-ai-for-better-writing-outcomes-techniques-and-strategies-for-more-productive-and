@@ -1,5 +1,4 @@
-Chapter 2: Identifying Writing Processes that can be Improved with AI
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore various writing processes that can benefit from the integration of Artificial Intelligence (AI) tools and techniques. AI has rapidly evolved, offering writers new and innovative ways to enhance their productivity and creativity. By understanding which aspects of the writing process can be improved with AI, writers can harness these technologies to achieve better writing outcomes.
 

@@ -1,5 +1,4 @@
-Chapter 6: Improving Writing Quality with AI-Powered Grammar and Style Correction
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 One of the foundational aspects of effective writing is maintaining high standards of grammar and style. AI-powered tools and technologies have revolutionized the way writers can enhance the quality of their work. In this chapter, we explore how you can leverage AI to improve your writing's clarity, correctness, and style, resulting in more polished and impactful writing outcomes.
 

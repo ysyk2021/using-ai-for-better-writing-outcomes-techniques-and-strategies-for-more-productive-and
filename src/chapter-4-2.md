@@ -1,5 +1,4 @@
-Chapter 7: Streamlining Workflow with AI-Powered Editing and Proofreading Tools
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Efficient editing and proofreading are essential steps in the writing process, ensuring that your work is error-free, polished, and ready for publication. AI-powered editing and proofreading tools have revolutionized these tasks, offering writers the means to streamline their workflow and enhance the overall quality of their writing. In this chapter, we'll explore how you can leverage AI to optimize your editing and proofreading process for more productive and creative writing outcomes.
 

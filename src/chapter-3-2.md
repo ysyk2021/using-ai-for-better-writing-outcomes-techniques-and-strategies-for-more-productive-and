@@ -1,5 +1,4 @@
-Chapter 4: Selecting AI Tools and Implementing Them into Writing Workflows
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of selecting appropriate AI tools and seamlessly integrating them into your writing workflows. As the AI landscape continues to evolve, it's crucial for writers to make informed choices about the tools that can best support their specific writing goals.
 

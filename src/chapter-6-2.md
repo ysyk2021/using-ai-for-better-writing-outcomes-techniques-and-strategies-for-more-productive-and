@@ -1,5 +1,4 @@
-Chapter 4: Balancing Automation with Personal Style
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the quest to leverage AI for better writing outcomes, one of the critical challenges writers face is finding the delicate balance between automation and preserving their unique personal style. While AI tools and techniques can significantly enhance productivity and efficiency, they should complement, not overshadow, the individuality and creativity that define your writing. This chapter explores strategies for striking that balance and ensuring that AI serves as a valuable tool rather than a replacement for your personal touch.
 

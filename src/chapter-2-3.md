@@ -1,5 +1,4 @@
-Chapter 8: Sentiment Analysis for Emotional Tone and Engagement
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the digital age, understanding and harnessing the emotional tone of your writing is crucial for captivating your audience and achieving more engaging, impactful, and persuasive content. Sentiment analysis, powered by AI, provides writers with invaluable insights into the emotional undercurrents of their text. In this chapter, we will explore how you can use sentiment analysis to enhance your writing's emotional resonance and foster greater engagement with your readers.
 
